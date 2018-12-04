@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
           title: new Text('Welcome to Flutter'),
         ),
         body: new Center(
-          //Hi there
+          //Hi there how are you
           //child: new Text(wordPair.asPascalCase), // Change this line to...
           child: new RandomWords(),                 // ... this line.
         ),
